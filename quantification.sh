@@ -20,6 +20,9 @@ find ~ -type d \( \
     -name "node_modules" -o \
     -name "dist" -o \
     -name "Library" -o \
+    -name "Movies" -o \
+    -name "Pictures" -o \
+    -name "Music" -o \
     -name "Applications" -o \
     -name ".Trash" -o \
     -name "Public" \
